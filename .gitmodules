@@ -1,17 +1,6 @@
-[submodule "src/pocketmine/gui"]
-	path = src/pocketmine/gui
-	url = https://github.com/PocketMine/PocketMine-MP-GUI.git
-	branch = master
-[submodule "src/raklib"]
-	path = src/raklib
-	url = https://github.com/PocketMine/RakLib.git
-	branch = master
-[submodule "src/spl"]
-	path = src/spl
-	url = https://github.com/PocketMine/PocketMine-SPL.git
-[submodule "tests/TesterPlugin"]
-	path = tests/TesterPlugin
-	url = https://github.com/PocketMine/TesterPlugin.git
-[submodule "src/pocketmine/lang/locale"]
-	path = src/pocketmine/lang/locale
-	url = https://github.com/PocketMine/PocketMine-Language.git
+[submodule "tests/plugins/DevTools"]
+	path = tests/plugins/DevTools
+	url = https://github.com/pmmp/DevTools.git
+[submodule "build/php"]
+	path = build/php
+	url = https://github.com/pmmp/php-build-scripts.git
